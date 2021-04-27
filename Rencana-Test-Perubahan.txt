@@ -1,4 +1,6 @@
   Rencana Ke Depan:
   1.Mempelajari DOOM
+    *ByID
+    *BYName
   2.MMR 6K
   3.DLL
