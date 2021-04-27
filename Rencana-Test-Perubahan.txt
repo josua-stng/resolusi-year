@@ -3,6 +3,7 @@
     *ByID
     *BYName
     *BYClass
+    *BYTag
   2.MMR 6K
   3.Nabong
   4.DLL
