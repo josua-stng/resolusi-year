@@ -2,6 +2,7 @@
   1.Mempelajari DOOM
     *ByID
     *BYName
+    *Angular
   2.MMR 6K
   3.Nabong
   4.DLL
