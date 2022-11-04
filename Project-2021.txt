@@ -1,6 +1,12 @@
 My Project In 2021
-=Can learn DOM JS
--MMR 6000
--Focus Study in college
--NEW PC
--Learn New things
+*Can learn DOM JS => clear
+*MMR 6000
+*Focus Study in college
+*NEW PC
+*Learn New things => clear
+
+
+My Project In 2023
+ *Going to intermediate React Js
+ *Can be a software engineerring
+ *Learn some framework front end
